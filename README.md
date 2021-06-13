@@ -7,7 +7,7 @@ Script For Free! , For Spam SMS To everyone!
 
 
 
-How To Install!
+**How To Install!**
 
 - install Python On you os / device
 - pip install requests
