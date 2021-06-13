@@ -1,2 +1,2 @@
-# Spam-SMS-AISPLAY-
+# Spam-SMS
 aaaaadwadaw
