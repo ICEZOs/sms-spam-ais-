@@ -17,7 +17,7 @@ Script For Free! , For Spam SMS To everyone!
 git clone https://github.com/ICEz123Dz/Spam-SMS-AISPLAY-
 
 
-How To Use!
+**How To Use!**
 
 python spamv3.py
 
