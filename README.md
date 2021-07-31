@@ -7,23 +7,21 @@ Script For Free! , For Spam SMS To everyone!
 
 
 
-**How To Install!**
 
 - install Python On you os / device
 - pip install requests
 - and install this script on you device
 
----> Linux <---
+
+**Linux Or Termux**
+```
 git clone https://github.com/ICEz123Dz/Spam-SMS-AISPLAY-
+```
 
 
-**How To Use!**
-
+how to use 
+```
 python spamv3.py
-
-
-
-Have Fun!!
-
+```
 
 
