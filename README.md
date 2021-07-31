@@ -5,10 +5,8 @@
 git clone https://github.com/ICEz123Dz/Spam-SMS-AISPLAY-
 ```
 
-**Window**
-```
-download in this page
-```
+สคริปนี้เป็นสคริปภาษาไทยนะครับ!
+แจกให้สำหรับคนไทย!
 
 
 how to use 
