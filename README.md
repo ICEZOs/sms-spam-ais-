@@ -3,7 +3,7 @@
 **For : Linux Termux**
 
 ```
-git clone https://github.com/ICEz123Dz/Spam-SMS-AISPLAY-
+git clone https://github.com/ICEZOs/sms-spam-ais-.git
 ```
 
 how to use 
